@@ -1,0 +1,1 @@
+<p class="text_cont" style="font-size:20px;width:85%; font-family: cursive"><?=nl2br($text)?></p>
